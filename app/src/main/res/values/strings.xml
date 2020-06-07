@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NIT6120_Lab4_3_PassingValuesWithIntents</string>
+    <string name="title_activity_do_sum">DoSumActivity</string>
+</resources>
